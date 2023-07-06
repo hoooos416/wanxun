@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"30ec9aecc6b716fb1fafcfcfc01e7420","name":"表单中心-web","statistic":{"failed":0,"broken":1,"skipped":0,"passed":3,"unknown":0,"total":4}},{"uid":"4611dbdeecd41af704f0783b8be5960e","name":"检测中心-APP","statistic":{"failed":0,"broken":1,"skipped":0,"passed":2,"unknown":0,"total":3}}]}
